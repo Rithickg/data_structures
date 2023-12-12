@@ -4,7 +4,7 @@
   "description": "",
   "main": "array.js", 
   "scripts": {
-    "dev":"nodemon heap_sort.js"
+    "dev":"nodemon depth_first_search.js"
   },
   "keywords": [],
   "author": "",
