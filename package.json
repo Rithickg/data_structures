@@ -2,9 +2,9 @@
   "name": "data_structures",
   "version": "1.0.0",
   "description": "",
-  "main": "array.js",
+  "main": "array.js", 
   "scripts": {
-    "dev":"nodemon linear_search.js"
+    "dev":"nodemon heap_sort.js"
   },
   "keywords": [],
   "author": "",
