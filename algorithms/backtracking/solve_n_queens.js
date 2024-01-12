@@ -23,7 +23,7 @@ function solveNQueens(n){
     function backtrack(row){
         if(row === n){
             const copy = board.map(arr => arr.join(''))
-            result.push(copy)
+            result.push(copy) 
             return;
         }
 
